@@ -1,6 +1,78 @@
-Yeh I'm a programmer
+Programmer
 
-If you're looking for a secret, click [here](#secret).
+```diff
++ My favorite color is green
+```
 
-## Secret
-Great job finding the secret! But the *real* secret is yet deeper. Click [here](#secret) to uncover it!
+
+<details>
+<summary>&nbsp;</summary>
+<details>
+<summary>&nbsp;</summary>
+<details>
+<summary>&nbsp;</summary>
+<details>
+<summary>&nbsp;</summary>
+<details>
+<summary>&nbsp;</summary>
+<details>
+<summary>&nbsp;</summary>
+<details>
+<summary>&nbsp;</summary>
+<details>
+<summary>&nbsp;</summary>
+<details>
+<summary>&nbsp;</summary>
+<details>
+<summary>&nbsp;</summary>
+<details>
+<summary>&nbsp;</summary>
+<details>
+<summary>&nbsp;</summary>
+<details>
+<summary>&nbsp;</summary>
+<details>
+<summary>&nbsp;</summary>
+<details>
+<summary>&nbsp;</summary>
+<details>
+<summary>&nbsp;</summary>
+<details>
+<summary>&nbsp;</summary>
+<details>
+<summary>&nbsp;</summary>
+<details>
+<summary>&nbsp;</summary>
+<details>
+<summary>&nbsp;</summary>
+<details>
+<summary>&nbsp;</summary>
+<details>
+<summary>&nbsp;</summary>
+<details>
+<summary>&nbsp;</summary>
+Why did you do this?
+</details>
+</details>
+</details>
+</details>
+</details>
+</details>
+</details>
+</details>
+</details>
+</details>
+</details>
+</details>
+</details>
+</details>
+</details>
+</details>
+</details>
+</details>
+</details>
+</details>
+</details>
+</details>
+</details>
+
